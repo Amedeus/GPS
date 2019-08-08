@@ -22,7 +22,7 @@ $ ./update
 ## Usage
 ```bash
 $ gps -h
-$ gps [longitude] [latitude]
+$ gps [latitude] [longitude]
 ```
 
 
