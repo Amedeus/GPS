@@ -28,7 +28,7 @@ $ gps [latitude] [longitude]
 
 ## Exemple
 
-Find coordinates with exif for exemple.
+You find coordinates with exif for exemple and need more informations.
 
 ```bash
 $ gps "N50°05'16''" "E14°25'14''"
