@@ -50,7 +50,7 @@ country_code : cz
 ```
 
 Note : 
- - longitude and latitude are strings, you need escape quotes (N50°05\'16\'\') or double quote like above.
+ - longitude and latitude are strings, you need escape quotes (N50°05\\'16\\'\\') or double quote like above.
  - It is DMS (degrees-minutes-seconds) notation but you can pass DD values
 
 ```bash
