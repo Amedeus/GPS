@@ -6,7 +6,7 @@ This tool work with nominatim.openstreetmap.org.
 
 ## Installation
 
-you need python3 and some common libraries
+You need python3 and some common libraries
 
 To add gps.py in the path :
 ```bash
