@@ -13,6 +13,9 @@ pattern = re.compile("^([N|S|E|W][0-9]+°[0-9]+'[0-9\.]+'')+$")
 
 
 # Experiencing github.dev
+# And now a pull request
+
+# second test
 
 parser = argparse.ArgumentParser(description="I need longidute and latitude. (accpted formats : DD, DMS [N|S|E|W]X°XX'XX.XX'')")
 parser.add_argument("latitude", help="DD or DMS latitude in string")
